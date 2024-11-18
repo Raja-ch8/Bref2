@@ -1,5 +1,4 @@
 # *Brief 2*
-Groupe 2 : Dunvael, Noa, Paul, Raja
 ___
 <div id='top'/>
 
